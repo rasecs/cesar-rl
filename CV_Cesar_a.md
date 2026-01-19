@@ -1,48 +1,56 @@
 # CÉSAR REYES LUGO
-[cite_start]**Ingeniero en Comunicaciones y Electrónica** [cite: 1, 2]
-📍 Estado de México | 📱 5530407252 | [cite_start]✉️ [lugces@gmail.com](mailto:lugces@gmail.com) [cite: 2]
+**Ingeniero en Comunicaciones y Electrónica** **Contacto:** 5530407252 | [lugces@gmail.com](mailto:lugces@gmail.com) | [cite_start]Estado de México [cite: 2]
 
 ---
 
-## 👤 PERFIL PROFESIONAL
-[cite_start]Ingeniero con más de **10 años de experiencia** liderando proyectos técnicos en telecomunicaciones y **2 años en pipelines ETL y análisis de datos**[cite: 4]. [cite_start]Especialista en la planificación y ejecución de tareas críticas, implementando arquitecturas en **AWS** para el monitoreo de sistemas de alta disponibilidad[cite: 5]. [cite_start]Experto en coordinar equipos multidisciplinarios para cumplir objetivos mediante **Python, Terraform y Microsoft Planner**, asegurando el cumplimiento de normativas y la reducción de tiempos operativos (SLO)[cite: 6].
+## PERFIL PROFESIONAL
+[cite_start]Ingeniero con más de 10 años liderando proyectos técnicos en telecomunicaciones y 2 años de especialización en pipelines ETL y análisis de datos[cite: 4]. [cite_start]Experto en planificación y ejecución de tareas críticas, implementando arquitecturas en AWS para monitoreo de alta disponibilidad[cite: 5]. [cite_start]Capacidad probada para coordinar equipos multidisciplinarios y optimizar recursos mediante Python, Terraform y Microsoft Planner, asegurando cumplimiento de SLO[cite: 6].
 
 ---
 
-## 🛠️ STACK TÉCNICO
-* [cite_start]**Cloud & DevOps:** AWS (Practitioner y Architect Associate), Terraform (módulos reutilizables, state remoto), Git/GitHub[cite: 10, 29, 30].
-* [cite_start]**Análisis de Datos:** Python (extracción, limpieza y visualización), Pipelines ETL, Dashboards críticos[cite: 11, 13, 32].
-* [cite_start]**Telecomunicaciones:** Redes Cisco CCNA, 4G/5G, FTTH, Enlaces Satelitales, TDT y Vigilancia de Espectro[cite: 9, 28].
-* [cite_start]**Gestión & IA:** Microsoft Planner, Teams, Metodologías para equipos en acciones críticas, Prompts IA (RTF, CRISP)[cite: 12, 33, 36, 38].
+## EXPERIENCIA LABORAL
 
----
+### Especialista en QoS y SLO de servicios de Telecomunicaciones
+**IFT (Instituto Federal de Telecomunicaciones)** | [cite_start]*Septiembre 2015 – Septiembre 2025* [cite: 8]
 
-## 💼 EXPERIENCIA LABORAL
+* [cite_start]**Infraestructura Cloud:** Implementé Terraform con módulos reutilizables para estandarizar configuraciones (IAM, EC2, S3, VPC), acelerando despliegues en un 40% y logrando alta disponibilidad >75%[cite: 10].
+* [cite_start]**Automatización de Datos:** Desarrollé pipelines ETL en Python para procesar datos de monitoreo de QoS y SLA, automatizando reportes que aceleraron la toma de decisiones en un 40%[cite: 11].
+* [cite_start]**Gestión de Proyectos:** Coordiné equipos multidisciplinarios mediante Microsoft Planner y Teams, cumpliendo el 90% de los objetivos anuales bajo cronogramas estrictos[cite: 12].
+* [cite_start]**Optimización y Visualización:** Desarrollé dashboards para datos críticos integrando prompts de IA para optimizar el uso de recursos de TI[cite: 13].
+* [cite_start]**Enlace Técnico-Ejecutivo:** Actué como puente estratégico traduciendo requerimientos complejos, logrando una reducción del 70% en tiempos de implementación de proyectos[cite: 14].
 
-### **Especialista en QoS y SLO de servicios de Telecomunicaciones**
-**IFT** | [cite_start]*Septiembre 2015 – Septiembre 2025* [cite: 8]
-
-* [cite_start]**Optimización Cloud:** Implementé **Terraform** para estandarizar configuraciones (IAM, EC2, S3, VPC), acelerando despliegues en un **40%** y logrando una disponibilidad **>75%**[cite: 10].
-* [cite_start]**Automatización de Datos:** Desarrollé pipelines ETL con **Python** para procesar datos de QoS y SLA; los reportes automatizados aceleraron la toma de decisiones en un **40%**[cite: 11].
-* [cite_start]**Liderazgo Técnico:** Coordiné equipos multidisciplinarios con Microsoft Planner + Teams, cumpliendo el **90% de objetivos anuales**[cite: 12].
-* [cite_start]**Eficiencia Operativa:** Reduje en un **70% los tiempos de implementación** de proyectos de monitoreo al actuar como puente entre áreas técnicas y ejecutivas[cite: 14].
-
-### **Jefe de Monitoreo de Fenómenos Naturales**
+### Jefe de Monitoreo de Fenómenos Naturales
 **CENAPRED** | [cite_start]*Enero 2014 – Septiembre 2015* [cite: 15]
 
-* [cite_start]**Resiliencia de Infraestructura:** Aseguré un **uptime >97%** en el Laboratorio de Monitoreo Nacional, resolviendo fallos en sistemas críticos[cite: 18].
-* [cite_start]**Capacitación:** Diseñé programas de adopción de plataformas colaborativas, reduciendo la curva de aprendizaje en un **80%**[cite: 17].
-* [cite_start]**Enlace Estratégico:** Validé plataformas de visualización de datos en tiempo real para soporte de decisiones críticas durante emergencias[cite: 16].
+* [cite_start]**Soporte de Misión Crítica:** Validé plataformas de visualización de datos en tiempo real para mesas de crisis durante emergencias nacionales[cite: 16].
+* [cite_start]**Continuidad de Operación:** Mantuve la infraestructura del Laboratorio de Monitoreo Nacional con un uptime >97%, mitigando riesgos en seguridad pública[cite: 18].
+* [cite_start]**Eficiencia Operativa:** Diseñé capacitaciones técnicas que redujeron la curva de aprendizaje en un 80% para equipos de monitoreo 24/7[cite: 17].
+* [cite_start]**Liderazgo:** Coordiné grupos de ingenieros, analistas y especialistas legales para entrega de proyectos en tiempo y forma[cite: 20].
 
-### **Jefe de operación de estación retransmisora de TDT**
+### Jefe de Operación de Estación Retransmisora de TDT
 **OPMA** | [cite_start]*Julio 2011 – Septiembre 2013* [cite: 21]
 
-* [cite_start]**Gestión de Infraestructura:** Supervisé la construcción e instalación de estaciones de Televisión Digital Terrestre (TDT)[cite: 22].
-* [cite_start]**Auditoría y Ahorro:** Lideré auditorías técnicas y reduje los gastos operativos en un **20%** mediante la automatización de tareas[cite: 23, 24].
+* [cite_start]**Gestión de Infraestructura:** Supervisé la construcción y puesta en operación de estaciones de Televisión Digital Terrestre (TDT)[cite: 22].
+* [cite_start]**Auditoría Técnica:** Lideró auditorías en múltiples sedes (Puebla, Veracruz, Edo. México), optimizando sistemas de transmisión digital[cite: 23].
+* [cite_start]**Optimización Financiera:** Gestioné recursos reduciendo en un 20% los gastos operativos mediante automatización de tareas[cite: 24].
 
 ---
 
-## 🎓 EDUCACIÓN Y CERTIFICACIONES
-* **Ingeniería en Comunicaciones y Electrónica** | [cite_start]IPN (Titulado 2003-2007)[cite: 25, 26].
-* **AWS Architect Associate** | [cite_start]Junio - Agosto 2025[cite: 29].
-* [cite_start]**Idiomas:** Inglés (Nivel B1.7)[cite: 34].
+## FORMACIÓN ACADÉMICA
+* **Ingeniería en Comunicaciones y Electrónica** | [cite_start]Titulado [cite: 25, 26]
+
+---
+
+## CERTIFICACIONES Y CURSOS TÉCNICOS
+* [cite_start]**Cloud Computing:** AWS Certified Cloud Practitioner y AWS Architect Associate (2025)[cite: 29].
+* [cite_start]**DevOps:** Terraform, Git y GitHub (en desarrollo)[cite: 30].
+* [cite_start]**Análisis de Datos:** Python y Excel para extracción, limpieza y visualización (2025)[cite: 32].
+* [cite_start]**Redes:** Cisco CCNA, Tecnología 4G/5G, Fibra Óptica FTTH[cite: 28].
+* [cite_start]**Sistemas:** SysAdmin Linux (en desarrollo)[cite: 31].
+
+---
+
+## COMPETENCIAS ADICIONALES
+* [cite_start]**Idiomas:** Inglés Nivel B1.7[cite: 34].
+* [cite_start]**Herramientas de IA:** Uso experto de prompts RTF y CRISP para optimización de procesos[cite: 38].
+* [cite_start]**Software especializado:** QGIS, Suite Office 365, Microsoft Planner[cite: 36, 39, 40].
