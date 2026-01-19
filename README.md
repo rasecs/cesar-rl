@@ -1,44 +1,63 @@
-# CÉSAR REYES LUGO
-[cite_start]**Ingeniero en Comunicaciones y Electrónica** [cite: 1, 2]
-📍 Estado de México | 📱 5530407252 | [cite_start]✉️ lugces@gmail.com [cite: 2]
+# 🚀 CÉSAR REYES LUGO
+**Cloud Engineer | DevOps | Observabilidad | Telecomunicaciones Críticas**
 
-## PERFIL PROFESIONAL
-[cite_start]Ingeniero en Comunicaciones y Electrónica con más de 10 años liderando proyectos técnicos en telecomunicaciones[cite: 4]. [cite_start]Especialista en pipelines ETL, análisis de datos y arquitecturas AWS para monitoreo de alta disponibilidad[cite: 4, 5]. [cite_start]Experto en coordinar equipos multidisciplinarios para optimizar recursos y reducir tiempos operativos (SLO) mediante Python y Terraform[cite: 6, 10].
+**📍 Estado de México, México** • 📱 55 3040 7252 • ✉️ lugces@gmail.com  
+[LinkedIn](#) · [GitHub](#)  <!-- CONFIRMAR: añadir URLs reales -->
 
-## EXPERIENCIA LABORAL
+---
 
-### Especialista en QoS y SLO de servicios de Telecomunicaciones
-**IFT** | [cite_start]Septiembre 2015 – Septiembre 2025 [cite: 8]
+> "Construyendo sistemas resilientes, automatizados y observables"
 
-* [cite_start]Implementé infraestructura como código con Terraform (IAM, EC2, S3, VPC), acelerando despliegues en un 40%[cite: 10].
-* [cite_start]Desarrollé pipelines ETL con Python para procesar datos de monitoreo de QoS y SLA, automatizando reportes y mejorando la toma de decisiones en un 40%[cite: 11].
-* [cite_start]Lideré proyectos de monitoreo de espectro radioeléctrico y resolución de interferencias técnico-legales[cite: 9].
-* [cite_start]Coordiné equipos con Microsoft Planner y Teams, alcanzando el 90% de los objetivos anuales en proyectos de TDT[cite: 12].
-* [cite_start]Actué como puente entre áreas técnicas y ejecutivas, reduciendo en un 70% los tiempos de implementación de infraestructura[cite: 14].
-* [cite_start]Diseñé dashboards de visualización críticos incorporando prompts de IA para optimización de recursos[cite: 13].
+## 🌟 Perfil Profesional
+Ingeniero en Comunicaciones y Electrónica con más de 10 años de experiencia en infraestructura técnica y 2 años especializado en pipelines ETL y análisis de datos. Enfocado en automatización, observabilidad y alta disponibilidad para servicios críticos.
 
-### Jefe de Monitoreo de Fenómenos Naturales
-**CENAPRED** | [cite_start]Enero 2014 – Septiembre 2015 [cite: 15]
+## 🛠️ Stack Tecnológico Principal
 
-* [cite_start]Validé plataformas de visualización de imágenes y datos en tiempo real para soporte en decisiones de emergencia[cite: 16].
-* [cite_start]Logré un uptime del 97% en infraestructura crítica del Laboratorio de Monitoreo Nacional[cite: 18].
-* [cite_start]Diseñé capacitaciones técnicas que redujeron la curva de aprendizaje en un 80% para equipos operativos[cite: 17].
-* [cite_start]Facilité la comunicación técnica entre áreas para la entrega de soluciones híbridas escalables[cite: 19].
+| Categoría | Tecnologías & Herramientas clave |
+|---|---|
+| ☁️ Cloud & Infra | AWS (EC2, S3, VPC, IAM, CloudWatch), Terraform, Linux SysAdmin |
+| 🔄 Automatización | Python, Pipelines ETL, Git, GitHub |
+| 📊 Observabilidad | CloudWatch, dashboards operativos, alerting, métricas SLO/SLA |
+| 📈 Datos & Análisis | Python (Pandas), Excel avanzado, QGIS |
+| 🌐 Telecom & Redes | CCNA, 4G/5G, FTTH, enlaces satelitales, TDT, gestión de espectro |
+| 👥 Gestión | Microsoft Teams, Planner, coordinación multidisciplinaria |
 
-### Jefe de operación de estación retransmisora de TDT
-**OPMA** | [cite_start]Julio 2011 – Septiembre 2013 [cite: 21]
+## 💼 Experiencia Laboral
 
-* [cite_start]Supervisé la construcción, instalación y puesta en operación de estaciones de Televisión Digital Terrestre[cite: 22].
-* [cite_start]Lideré auditorías técnicas y administrativas en múltiples sedes, optimizando sistemas de transmisión[cite: 23].
-* [cite_start]Reduje en un 20% los gastos operativos mediante la automatización de tareas y gestión eficiente de recursos[cite: 24].
+### Especialista en QoS y SLO de Servicios de Telecomunicaciones — IFT  
+Sep 2015 – Sep 2025
+- Implementé Infrastructure as Code con Terraform (módulos reutilizables y state remoto), acelerando despliegues ~40% y estandarizando configuraciones en AWS.
+- Gestioné recursos en AWS (EC2, S3, VPC) y diseñé monitoreo con CloudWatch para mantener niveles de servicio (VERIFICAR MÉTRICA: actualmente aparece “>75%” — confirmar o corregir a un %, p. ej. >99.9%).
+- Desarrollé pipelines ETL en Python para procesar datos de monitoreo de QoS/SLA, reduciendo el tiempo de toma de decisiones ~40%.
+- Traduje requerimientos técnicos a lenguaje ejecutivo, reduciendo tiempos de implementación en un 70%.
+- Coordiné equipos con Microsoft Planner y Teams cumpliendo el 90% de objetivos anuales.
 
-## EDUCACIÓN Y FORMACIÓN
-* [cite_start]**Ingeniería en Comunicaciones y Electrónica**: Titulado (2003-2007)[cite: 25, 26].
-* [cite_start]**Cloud Computing**: AWS Certified Cloud Practitioner y AWS Architect Associate (2025)[cite: 29].
-* [cite_start]**Análisis de Datos**: Excel y Python para extracción y limpieza de datos[cite: 32].
-* [cite_start]**Telecomunicaciones**: Cisco CCNA, Tecnología 4G/5G, Fibra Óptica FTTH[cite: 28].
-* [cite_start]**Herramientas**: Terraform, Git/GitHub, Linux (SysAdmin), QGIS[cite: 30, 31, 39].
+### Jefe de Monitoreo de Fenómenos Naturales — CENAPRED  
+Ene 2014 – Sep 2015
+- Validé plataformas de visualización en tiempo real para mesas de crisis en emergencias nacionales.
+- Mantuvié sistemas del Laboratorio de Monitoreo Nacional con uptime >97%.
+- Diseñé capacitaciones que redujeron la curva de aprendizaje en 80% para equipos operativos 24/7.
 
-## IDIOMAS Y HABILIDADES
-* [cite_start]**Inglés**: Nivel B1.7[cite: 34].
-* [cite_start]**IA Generativa**: Uso de prompts RTF y CRISP para optimización de tareas[cite: 38].
+### Jefe de Operación de Estación Retransmisora de TDT — OPMA  
+Jul 2011 – Sep 2013
+- Supervisé construcción y puesta en operación de estaciones TDT.
+- Lideré auditorías técnicas y administrativas, optimizando sistemas de transmisión.
+- Automatización que redujo gastos operativos en 20%.
+
+## 🎓 Formación & Certificaciones
+- Ingeniería en Comunicaciones y Electrónica — IPN (Titulado 2003–2007)
+- AWS Certified Cloud Practitioner — (Año: CONFIRMAR)
+- AWS Certified Solutions Architect – Associate — (Estado: CONFIRMAR, año 2025 si aplica)
+- Python para Análisis de Datos — (Enero 2025)
+- Liderazgo de Equipos en Acciones Críticas — (Julio 2025)
+- Idiomas: Inglés B1.7 (Intermedio)
+
+## Proyectos relevantes (opcional)
+- Pipeline ETL para monitoreo QoS (Python + AWS) — [link al repo o descripción corta] (añadir enlace si existe)
+- Infraestructura Terraform modular para despliegue estandarizado en AWS — [link]
+
+---
+
+> "Construyendo sistemas que no fallen… y cuando fallen, que lo hagan de forma inteligente y se recuperen mejor."
+
+¡Hablemos de cloud, automatización, observabilidad y resiliencia! 🚀
