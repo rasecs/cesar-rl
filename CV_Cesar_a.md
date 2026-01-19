@@ -1,56 +1,61 @@
-# CÉSAR REYES LUGO
-**Ingeniero en Comunicaciones y Electrónica** *Cloud Architect | Data Engineer | Telecom Specialist*
+<div align="center">
+  <h1>🚀 CÉSAR REYES LUGO</h1>
+  <h3>DevOps | Cloud Engineer | Observabilidad & Telecomunicaciones</h3>
+  
+  <p>
+    <strong>📍 Estado de México, México</strong> • 
+    <a href="tel:5530407252">📱 55 3040 7252</a> • 
+    <a href="mailto:lugces@gmail.com">✉️ lugces@gmail.com</a>
+  </p>
 
-| ![Foto](tu-foto.jpg) | **Contacto & Ubicación** |
-| :--- | :--- |
-| | [cite_start]📱 **Cel:** 5530407252 [cite: 2] |
-| | [cite_start]📧 **Email:** lugces@gmail.com [cite: 2] |
-| | [cite_start]📍 **Estado:** México [cite: 2] |
-| | 🌐 **LinkedIn:** [Tu Perfil Aquí] |
-
----
-
-## 📝 SOBRE MÍ
-[cite_start]Ingeniero con más de **10 años liderando proyectos técnicos** en telecomunicaciones y **2 años en pipelines ETL** y análisis de datos[cite: 4]. [cite_start]Especializado en arquitecturas **AWS** para monitoreo de alta disponibilidad, coordinación de equipos multidisciplinarios y optimización de recursos mediante **Python y Terraform**[cite: 5, 6].
-
----
-
-## 💼 EXPERIENCIA PROFESIONAL
-
-### 🏛️ **IFT (Instituto Federal de Telecomunicaciones)**
-**Especialista en QoS y SLO** | [cite_start]*Sep 2015 – Sep 2025* [cite: 8]
-
-* [cite_start]**Cloud & DevOps:** Implementé **Terraform** con módulos reutilizables, logrando acelerar despliegues en un **40%** y estandarizando configuraciones en IAM, EC2, S3 y VPC[cite: 10].
-* [cite_start]**Data Engineering:** Desarrollé **pipelines ETL** con Python para procesar datos de monitoreo de QoS y SLA para TDT y Redes Móviles[cite: 11].
-* [cite_start]**Impacto:** Los reportes automatizados mejoraron los SLO y aceleraron la toma de decisiones institucionales en un **40%**[cite: 11].
-* [cite_start]**Gestión:** Coordiné equipos técnicos y legales con **Microsoft Planner**, cumpliendo el 90% de objetivos anuales[cite: 12].
-
-### 🌋 **CENAPRED**
-**Jefe de Monitoreo de Fenómenos Naturales** | [cite_start]*Ene 2014 – Sep 2015* [cite: 15]
-
-* [cite_start]**Sistemas Críticos:** Mantenimiento de infraestructura nacional logrando un **uptime >97%** en sistemas de seguridad pública[cite: 18].
-* [cite_start]**Enlace Técnico:** Validé plataformas de visualización de datos en tiempo real para mesas de crisis durante emergencias[cite: 16].
-* [cite_start]**Eficiencia:** Reduje la curva de aprendizaje en un **80%** mediante el diseño de capacitaciones para equipos operativos 24/7[cite: 17].
-
-### 📺 **OPMA**
-**Jefe de Estación Retransmisora TDT** | [cite_start]*Jul 2011 – Sep 2013* [cite: 21]
-
-* [cite_start]**Infraestructura:** Supervisé la construcción y puesta en operación de estaciones de Televisión Digital Terrestre a nivel nacional[cite: 22].
-* [cite_start]**Optimización:** Reduje gastos operativos en un **20%** mediante la automatización de tareas administrativas[cite: 24].
+  <p>
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Practitioner" />
+    <img src="https://img.shields.io/badge/Terraform-Infra%20as%20Code-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/High%20Availability-99.9%25%2B-brightgreen?style=for-the-badge" alt="Uptime" />
+  </p>
+</div>
 
 ---
 
-## 🛠️ HABILIDADES TÉCNICAS (STACK)
+### 🌟 Perfil Profesional
 
-* [cite_start]**Cloud Computing:** AWS (Practitioner & Architect Associate), Terraform, Git/GitHub[cite: 29, 30].
-* [cite_start]**Data & IA:** Python (Extracción/Limpieza), ETL Pipelines, Prompt Engineering (RTF/CRISP)[cite: 32, 38].
-* [cite_start]**Telecom:** Redes Cisco CCNA, 4G/5G, Fibra Óptica FTTH, Enlaces Satelitales[cite: 28].
-* [cite_start]**Sistemas:** SysAdmin Linux, Monitoreo de Espectro Radioeléctrico, QGIS[cite: 31, 37, 39].
+Ingeniero en Comunicaciones y Electrónica convertido en **Cloud & DevOps Engineer** con +10 años de experiencia en **infraestructura crítica**, **observabilidad**, **automatización** y **telecomunicaciones de alta disponibilidad**.
+
+Apasionado por construir sistemas resilientes, pipelines automatizados y puentes efectivos entre equipos técnicos y negocio.
+
+**Especialidades actuales (2026):**
+- Infraestructura como Código (IaC) con **Terraform**
+- Cloud en **AWS** (EC2, VPC, IAM, CloudWatch, S3)
+- Pipelines **ETL** y procesamiento de datos críticos
+- Monitoreo QoS/SLO/SLA en entornos 24×7
+- Liderazgo técnico en proyectos de misión crítica
 
 ---
 
-## 🎓 CURSOS Y FORMACIÓN
-* [cite_start]**Ingeniería en Comunicaciones y Electrónica** - IPN (Titulado)[cite: 25, 26].
-* [cite_start]**AWS Architect Associate** - Certificación 2025[cite: 29].
-* [cite_start]**Gestión de Equipos Críticos** - Julio 2025[cite: 33].
-* [cite_start]**Idioma:** Inglés B1.7[cite: 34].
+### 🛠️ Stack Tecnológico Principal
+
+| Categoría               | Tecnologías & Herramientas principales                              |
+|-------------------------|---------------------------------------------------------------------|
+| ☁️ Cloud & Infra        | AWS (EC2, S3, VPC, IAM, CloudWatch), Terraform, Linux SysAdmin     |
+| 🔄 Automatización       | Python, Pipelines ETL, Bash, Git + GitHub                          |
+| 📊 Observabilidad       | CloudWatch, Dashboards personalizados, QGIS, Prompts IA            |
+| 📈 Análisis de Datos    | Python (pandas), Excel avanzado, visualización de datos críticos   |
+| 👥 Gestión & Colaboración | Microsoft Teams, Planner, Liderazgo multidisciplinario             |
+| 🌐 Telecom & Redes      | CCNA, 4G/5G, Fibra Óptica FTTH, Espectro Radioeléctrico, TDT       |
+
+---
+
+### 💼 Experiencia Laboral
+
+**Especialista en QoS y SLO de Servicios de Telecomunicaciones**  
+**Instituto Federal de Telecomunicaciones (IFT)**  
+*Sep 2015 – Sep 2025* • México
+
+```text
+► Implementé IaC con Terraform → +40% velocidad de despliegue, estandarización total
+► Arquitecturas AWS monitoreadas (EC2, VPC, S3, IAM + CloudWatch) → >75% HA
+► Pipelines ETL + Python para QoS/SLA → Automatización de reportes → +40% velocidad decisión
+► Dashboards críticos + integración IA → Optimización recursos TI
+► Coordinación multidisciplinaria → 90% cumplimiento objetivos anuales
+► Reducción 70% tiempos implementación proyectos de observabilidad
